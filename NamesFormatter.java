@@ -1,4 +1,4 @@
-package formatter;
+package NamesFormatter;
 
 import java.util.List;
 import java.util.stream.Collectors;
